@@ -2,11 +2,11 @@
   "name": "nestjs-vk",
   "version": "5.0.0",
   "description": "VK-IO module for NestJS",
-  "homepage": "https://github.com/xTCry/nestjs-vk#readme",
+  "homepage": "https://github.com/quick6reponse/nestjs-vk#readme",
   "bugs": {
     "url": "https://github.com/xTCry/nestjs-vk/issues"
   },
-  "repository": "git@github.com:xTCry/nestjs-vk.git",
+  "repository": "git@github.com:quick6reponse/nestjs-vk.git",
   "license": "MIT",
   "author": "xTCry [Vladislav Kh] (https://github.com/xTCry/)",
   "main": "./dist/index.js",
