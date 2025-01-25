@@ -22,23 +22,23 @@
     "release:rc": "standard-version --prerelease rc"
   },
   "dependencies": {
-    "@vk-io/hear": "^1.1.0",
-    "@vk-io/scenes": "^1.1.0",
-    "@vk-io/session": "^2.1.0",
+    "@vk-io/hear": "^1.1.1",
+    "@vk-io/scenes": "^1.2.1",
+    "@vk-io/session": "^2.2.1",
     "lodash": "^4.17.21",
-    "rimraf": "^3.0.2",
-    "standard-version": "^9.3.2"
+    "rimraf": "^6.0.1",
+    "standard-version": "^9.5.0"
   },
   "devDependencies": {
-    "@nestjs/common": "^9.0.0",
-    "@nestjs/core": "^9.0.0",
-    "@types/lodash": "4.14.195",
+    "@nestjs/common": "^11.0.5",
+    "@nestjs/core": "^11.0.5",
+    "@types/lodash": "4.17.14",
     "middleware-io": "^2.8.1",
-    "prettier": "3.0.3",
+    "prettier": "3.4.2",
     "reflect-metadata": "0.2.2",
-    "rxjs": "^7.5.5",
-    "typescript": "4.3.5",
-    "vk-io": "^4.8.3"
+    "rxjs": "^7.8.1",
+    "typescript": "5.7.3",
+    "vk-io": "^4.9.1"
   },
   "peerDependencies": {
     "@nestjs/common": "^6.7.0 || ^7.0.0 || ^8.0.0 || ^9.0.0 || ^10.0.0 || ^11.0.0",
