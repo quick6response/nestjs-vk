@@ -27,7 +27,7 @@
     "@vk-io/scenes": "^1.2.1",
     "@vk-io/session": "^2.2.1",
     "lodash": "^4.17.21",
-    "rimraf": "^3.0.2",
+    "rimraf": "5.0.10",
     "standard-version": "^9.5.0"
   },
   "devDependencies": {
